@@ -1,0 +1,14 @@
+C:\Users\helmu\source\repos\Lab1_ex1\Lab1_ex1\bin\Debug\net8.0\Lab1_ex1.exe
+C:\Users\helmu\source\repos\Lab1_ex1\Lab1_ex1\bin\Debug\net8.0\Lab1_ex1.deps.json
+C:\Users\helmu\source\repos\Lab1_ex1\Lab1_ex1\bin\Debug\net8.0\Lab1_ex1.runtimeconfig.json
+C:\Users\helmu\source\repos\Lab1_ex1\Lab1_ex1\bin\Debug\net8.0\Lab1_ex1.dll
+C:\Users\helmu\source\repos\Lab1_ex1\Lab1_ex1\bin\Debug\net8.0\Lab1_ex1.pdb
+C:\Users\helmu\source\repos\Lab1_ex1\Lab1_ex1\obj\Debug\net8.0\Lab1_ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helmu\source\repos\Lab1_ex1\Lab1_ex1\obj\Debug\net8.0\Lab1_ex1.AssemblyInfoInputs.cache
+C:\Users\helmu\source\repos\Lab1_ex1\Lab1_ex1\obj\Debug\net8.0\Lab1_ex1.AssemblyInfo.cs
+C:\Users\helmu\source\repos\Lab1_ex1\Lab1_ex1\obj\Debug\net8.0\Lab1_ex1.csproj.CoreCompileInputs.cache
+C:\Users\helmu\source\repos\Lab1_ex1\Lab1_ex1\obj\Debug\net8.0\Lab1_ex1.dll
+C:\Users\helmu\source\repos\Lab1_ex1\Lab1_ex1\obj\Debug\net8.0\refint\Lab1_ex1.dll
+C:\Users\helmu\source\repos\Lab1_ex1\Lab1_ex1\obj\Debug\net8.0\Lab1_ex1.pdb
+C:\Users\helmu\source\repos\Lab1_ex1\Lab1_ex1\obj\Debug\net8.0\Lab1_ex1.genruntimeconfig.cache
+C:\Users\helmu\source\repos\Lab1_ex1\Lab1_ex1\obj\Debug\net8.0\ref\Lab1_ex1.dll
